@@ -1,0 +1,18 @@
+h1 {
+    font-weight: bold !important;
+}
+
+.reg-btn, .login-btn {
+    margin-top: 1em;
+    display: flex;
+    gap: 0.5em;
+}
+
+.reg-btn a, .login-btn a {
+    color: black;
+}
+
+.justify-content-md-center {
+    
+    justify-content: center;
+}

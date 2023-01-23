@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.items-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
+
+.justify-content-md-center {
+    
+    justify-content: center;
+}

@@ -1,0 +1,46 @@
+a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+
+  }
+  
+  .center {
+      
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 2em;
+  }
+  
+  .center p {
+      
+    width: 70%;
+    font-size: 1.3rem;
+  }
+  
+  h2 {
+      font-weight: bold !important;
+  }
