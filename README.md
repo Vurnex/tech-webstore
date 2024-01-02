@@ -1,7 +1,7 @@
 # Tech Webstore
 Project to create an online webstore that sells common tech products.
 
-[Click here for a live preview](https://laqhamil.a2hosted.com/public/dashboard) (Will have to log in first. Log in details are provided.)
+[Click here for a live preview](https://laqhamil.a2hosted.com/public/dashboard) (The website is currently inactive. Leaving a link for future reference.)
 
 The website allows the user to view a list of products, add them to a cart, and checkout. It also allows an admin to add, edit, and delete products and transactions. 
 
